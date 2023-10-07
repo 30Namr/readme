@@ -56,4 +56,9 @@ This Is [Google][www.Google.com] link
  |:----------| :----------|
  | row 1 column 1 | row 1 column 2 | 
 
+ # code 
+ ...js
+ const first name =`Namu`;
+ const second name = `ram`;
+
 
