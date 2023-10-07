@@ -23,3 +23,12 @@ how to write inside read me on github
 # Italic Text
 This is * Italic Text *
 This is *Italic text*
+
+# Strike Text
+~~ this is My First Idea ~~
+~~This Is My First Idea~~
+
+# Links 
+This Is [Google] [Google.com] link
+
+
