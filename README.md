@@ -50,7 +50,6 @@ This Is [Google][www.Google.com] link
 
  # Table
  |heading1|heading2|
- |:-------| :------|
  |row1column1|row1coumn2|(space between each [|]}
  
  | heading 1 | heading 2 | 
