@@ -29,6 +29,6 @@ This is *Italic text*
 ~~This Is My First Idea~~
 
 # Links 
-This Is [Google] [Google.com] link
+This Is [Google][Google.com] link
 
 
