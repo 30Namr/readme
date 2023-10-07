@@ -36,11 +36,13 @@ This Is [Google][www.Google.com] link
 
 # Unordered List
 -item1
--item2
+- item1
+
 .item1
-.item2
-*item3
-*item4
+. item2
+
++item3
++ item4
 
 
 
