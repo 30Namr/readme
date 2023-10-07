@@ -38,11 +38,15 @@ This Is [Google][www.Google.com] link
 -item1
 - item1
 
-.item1
-. item2
+*item2
+* item2
 
 +item3
-+ item4
++ item3
 
+# Ordered List
+ 1item1
+ 1 item1
+ 
 
 
