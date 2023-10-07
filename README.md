@@ -50,8 +50,8 @@ This Is [Google][www.Google.com] link
 
  # Table
  
- | heading 1 | heading 2 | heading 3 | 
- |-----------------------------------| 
- | row 1 column 1 | row 1 column 2 | row 1 column 3 |
+ | heading 1 | heading 2 | 
+ |:----------| :----------|
+ | row 1 column 1 | row 1 column 2 | 
 
 
