@@ -49,7 +49,8 @@ This Is [Google][www.Google.com] link
  1 itemA
 
  # Table
- | heading1 | heading2 | heading3 |
- | row1 column1 | row1 column2 | row1 column3 |
+ | heading 1 | heading 2 | heading 3 |
+ |-----------------------------------|
+ | row 1 column 1 | row 1 column 2 | row 1 column 3 |
 
 
