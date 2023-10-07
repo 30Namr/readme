@@ -1,7 +1,7 @@
 # readme
 how to write inside read me on github 
 
-# html tag
+# Html Tag
 
 #heading1                        
 # heading1
@@ -15,3 +15,6 @@ how to write inside read me on github
 ##### hedading5
 ######heading6 
 ###### heading6
+
+ # Bold Text
+  This  is ** Bold **
