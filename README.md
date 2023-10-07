@@ -17,4 +17,4 @@ how to write inside read me on github
 ###### heading6
 
  # Bold Text
-  This  is ** Bold **
+  This  is **Bold**
