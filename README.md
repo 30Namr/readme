@@ -45,8 +45,11 @@ This Is [Google][www.Google.com] link
 + item3
 
 # Ordered List
- 1item1
- 1 item1
- 
+ 1itemA
+ 1 itemA
+
+ # Table
+ | heading1 | heading2 | heading3 |
+ | row1 column1 | row1 column2 | row1 column3 |
 
 
