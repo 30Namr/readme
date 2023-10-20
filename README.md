@@ -8,7 +8,7 @@ how to write inside read me on github
 ##heading2  
 ## heading2
 ###heading3  
-### heading3 
+###  heading3 
 ####heading4 
 #### heading4 
 #####heading5 
